@@ -8,7 +8,7 @@ A user has many skills and a skill can have many users.
 
 ![Database Schema](https://user-images.githubusercontent.com/45776359/110645997-3be67000-8195-11eb-84ab-016470fce0b1.png)
 
-### [How to](https://github.com/andrerferrer/devise-nested-model-demo/commits/master)
+### How to
 
 1. [add the strong_params in the controller](https://github.com/andrerferrer/devise-nested-model-demo/commit/96b6c0d4da118b160c7918db4315c1098c7dbd20)
 1. [accept nested attributes for skills](https://github.com/andrerferrer/devise-nested-model-demo/commit/7fdd4efddef6276496ef933bca70843591261f34)
