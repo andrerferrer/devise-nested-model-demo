@@ -10,9 +10,9 @@ A user has many skills and a skill can have many users.
 
 ### [How to](https://github.com/andrerferrer/handle-css-on-chat-demo/commits/master)
 
-1. [add the strong_params in the controller]()
-1. [accept nested attributes for skills]()
-1. [add the input in the form]()
+1. [add the strong_params in the controller](https://github.com/andrerferrer/devise-nested-model-demo/commit/96b6c0d4da118b160c7918db4315c1098c7dbd20)
+1. [accept nested attributes for skills](https://github.com/andrerferrer/devise-nested-model-demo/commit/7fdd4efddef6276496ef933bca70843591261f34)
+1. [add the input in the form](https://github.com/andrerferrer/devise-nested-model-demo/commit/1f45f2c52a34d2ab5f7413e5527588786b824090)
 
 ### If you want to check it locally
 ```sh
