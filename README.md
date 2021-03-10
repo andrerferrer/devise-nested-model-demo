@@ -10,7 +10,9 @@ A user has many skills and a skill can have many users.
 
 ### [How to](https://github.com/andrerferrer/handle-css-on-chat-demo/commits/master)
 
-1. []()
+1. [add the strong_params in the controller]()
+1. [accept nested attributes for skills]()
+1. [add the input in the form]()
 
 ### If you want to check it locally
 ```sh
