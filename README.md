@@ -24,3 +24,5 @@ rails s
 And we're good to go 🤓
 
 Good Luck and Have Fun
+
+![Untitled (1)](https://user-images.githubusercontent.com/45776359/110645997-3be67000-8195-11eb-84ab-016470fce0b1.png)
