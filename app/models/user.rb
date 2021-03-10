@@ -6,4 +6,6 @@ class User < ApplicationRecord
   
   has_many :user_skills
   has_many :skills, through: :user_skills
+
+  accepts_nested_attributes_for :skills # https://api.rubyonrails.org/classes/ActiveRecord/NestedAttributes/ClassMethods.html
 end
