@@ -2,7 +2,13 @@
 This is an app to teach how to create a new user and a nested model in the same form.
 
 
-## [How to](https://github.com/andrerferrer/handle-css-on-chat-demo/commits/master)
+### Before we begin, the DB Schema:
+
+A user has many skills and a skill can have many users.
+
+![Database Schema](https://user-images.githubusercontent.com/45776359/110645997-3be67000-8195-11eb-84ab-016470fce0b1.png)
+
+### [How to](https://github.com/andrerferrer/handle-css-on-chat-demo/commits/master)
 
 1. []()
 
@@ -25,4 +31,4 @@ And we're good to go 🤓
 
 Good Luck and Have Fun
 
-![Untitled (1)](https://user-images.githubusercontent.com/45776359/110645997-3be67000-8195-11eb-84ab-016470fce0b1.png)
+
