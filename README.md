@@ -1,6 +1,7 @@
 ## Goal
 This is an app to teach how to create a new user and a nested model in the same form.
 
+[You can also check my other demos](https://github.com/andrerferrer/dedemos/blob/master/README.md#ded%C3%A9mos).
 
 ### Before we begin, the DB Schema:
 
